@@ -57,7 +57,11 @@ int main() {
     std::vector<int> nums = {0, 1, 2, 4, 5, 6, 7};
     int target = 4;
     int result = solution.search(nums, target);
-    std::cout<<result;
+    std::cout<<result<<std::endl;
     return 0;
 }
 
+/**
+ * @brief 
+ * 
+ */
